@@ -15,4 +15,4 @@ text("Another line written!", 100,170);
 textSize(30);
 text("A third phrase has been created!", 10, 400);
 
-save("REFERENCE_Text.png");
+
